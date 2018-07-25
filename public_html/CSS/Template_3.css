@@ -1,0 +1,159 @@
+*
+{
+    margin-top: 0px;
+}
+#main
+{
+    width:1000px;
+    height: auto;
+    margin: 0 auto;
+}
+#wrapper
+{
+    width: 1000px;
+    height: auto;
+    float:left;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+#header
+{
+    width:1000px;
+    height: 150px;
+    float: left;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+#banner
+{
+    width:177px;
+    height: 38px;
+    float:left;
+    margin-top: 58px;
+    margin-left:40px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+#menu
+{
+    width:520px;
+    height:33px;
+    float:left;
+    margin-top: 58px;
+    margin-left:230px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+#section_first
+{
+    width:1000px;
+    height:auto;
+    min-height: 1000px;
+    float:left;
+    background-image: url('../imgs/gradient-bg.png');
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+#left
+{
+    width:290px;
+    height:auto;
+    min-height: 800px;
+    float:left;
+    margin:30px;
+    margin-top:70px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+#L_1
+{
+    width:270px;
+    height:380px;
+    float:left;
+}
+#L_2
+{
+    width:270px;
+    height:300px;
+    float:left;
+}
+#L_3
+{
+    width:270px;
+    height:300px;
+    float:left;
+}
+
+#right
+{
+    width:620px;
+    height: auto;
+    min-height: 985px;
+    float:left;
+    margin-top:70px;
+}
+#R_1
+{
+    width:580px;
+    height:300px;
+    float:left;
+    margin-left:42px;
+    background-image: url('../imgs/pic01.png');
+}
+#R_2
+{
+    width:580px;
+    height:682px;
+    float:left;
+    margin-left:42px;
+}
+#section_second
+{
+    margin-top: 8px;
+    width:1000px;
+    height:auto;
+    min-height: 430px;
+    float:left;
+    background-color: #1a1a1a;
+}
+#D_1
+{
+    width:270px;
+    height:350px;
+    float:left;
+    margin: 40px;
+    margin-top:50px;
+}
+#D_2
+{
+    width:270px;
+    height:350px;
+    float:left;
+    margin: 40px;
+    margin-left:10px;
+    margin-top:50px;
+}
+#D_3
+{
+    width:270px;
+    height:350px;
+    float:left;
+    margin: 40px;
+    margin-left:10px;
+    margin-top:50px;
+}
+#footer
+{
+    width:1000px;
+    height:120px;
+    float:left;
+    text-align: center;
+    background-image: url('imgs/main-bg.png');
+}
